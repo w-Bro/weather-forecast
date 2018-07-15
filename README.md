@@ -10,3 +10,5 @@
 ![代码修改1](https://github.com/w-Bro/weather-forecast/blob/master/image/img_2.jpg)
 4. 修改关于API连接的用户key，改成你在和风天气申请的用户key
 ![代码修改2](https://github.com/w-Bro/weather-forecast/blob/master/image/img_3.jpg)
+### 运行效果
+![运行效果](https://github.com/w-Bro/weather-forecast/blob/master/image/img_1.jpg)
